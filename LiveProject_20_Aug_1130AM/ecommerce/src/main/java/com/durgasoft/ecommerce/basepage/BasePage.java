@@ -15,6 +15,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class BasePage {
 
+	public int a=10;
 	public static WebDriver driver;
 	public static final String path = "./config.properties";
 	public String log4jpath="log4j.properties";
