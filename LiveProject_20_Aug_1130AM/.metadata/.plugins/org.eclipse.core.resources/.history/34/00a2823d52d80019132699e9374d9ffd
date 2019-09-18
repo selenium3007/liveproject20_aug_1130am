@@ -1,0 +1,12 @@
+package com.durgasoft.ecommerce.basepage;
+
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+public class SeleniumHUB {
+
+	public static void main(String[] args) {
+		DesiredCapabilities ds=new DesiredCapabilities();
+
+	}
+
+}

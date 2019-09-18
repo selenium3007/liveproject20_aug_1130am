@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Test start running: customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[Test is success: customerRegistration]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\customerRegistration16_09_2019_12_15_32.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\customerRegistration16_09_2019_12_15_32.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Test start running: verifyLogin]]>
+    </line>
+    <line>
+      <![CDATA[Test is success: verifyLogin]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogin16_09_2019_12_15_33.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogin16_09_2019_12_15_33.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[Test start running: verifyLogout]]>
+    </line>
+    <line>
+      <![CDATA[Test is success: verifyLogout]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogout16_09_2019_12_15_33.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogout16_09_2019_12_15_33.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48362" started-at="2019-09-16T06:44:45Z" finished-at="2019-09-16T06:45:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48362" started-at="2019-09-16T06:44:45Z" finished-at="2019-09-16T06:45:34Z">
+      <class name="com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@43bd930a]" name="beforeTest" is-config="true" duration-ms="19266" started-at="2019-09-16T06:44:45Z" finished-at="2019-09-16T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="customerRegistration()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@43bd930a]" name="customerRegistration" duration-ms="27495" started-at="2019-09-16T06:45:05Z" finished-at="2019-09-16T06:45:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test start running: customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[Test is success: customerRegistration]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\customerRegistration16_09_2019_12_15_32.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\customerRegistration16_09_2019_12_15_32.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerRegistration -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@43bd930a]" name="verifyLogin" duration-ms="2" started-at="2019-09-16T06:45:33Z" finished-at="2019-09-16T06:45:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test start running: verifyLogin]]>
+            </line>
+            <line>
+              <![CDATA[Test is success: verifyLogin]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogin16_09_2019_12_15_33.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogin16_09_2019_12_15_33.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="verifyLogout()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@43bd930a]" name="verifyLogout" duration-ms="2" started-at="2019-09-16T06:45:33Z" finished-at="2019-09-16T06:45:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test start running: verifyLogout]]>
+            </line>
+            <line>
+              <![CDATA[Test is success: verifyLogout]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogout16_09_2019_12_15_33.png'><img src='D:\LiveProject_20_Aug_1130AM\ecommerce\src\main\java\com\durgasoft\ecommerce\passedscreens\verifyLogout16_09_2019_12_15_33.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration@43bd930a]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-09-16T06:45:34Z" finished-at="2019-09-16T06:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.durgasoft.ecommerce.homepage.TC001_CustomerRegistration -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
